@@ -1,0 +1,109 @@
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.exe
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.pdb
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.AssemblyReference.cache
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.NeptuneCSampleForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupAltLedForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupAutoFocusForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupCaptureForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupFeatureForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupFrameSaveForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupLUTForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupResolutionForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupSIOControlForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupStrobeForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupThermalForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupTriggerForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupUserSetForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.Properties.Resources.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupStackedROIForm.resources
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.GenerateResource.cache
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.CoreCompileInputs.cache
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.exe
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.pdb
+C:\Program Files\IMI Tech\Neptune\SDKs\Samples\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.CONTROL_PANEL.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.exe.config
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.exe
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.pdb
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.AssemblyReference.cache
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.CONTROL_PANEL.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.NeptuneCSampleForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupAltLedForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupAutoFocusForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupCaptureForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupFeatureForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupFrameSaveForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupLUTForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupResolutionForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupSIOControlForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupStrobeForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupThermalForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupTriggerForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupUserSetForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.Properties.Resources.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupStackedROIForm.resources
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.GenerateResource.cache
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.exe
+C:\Users\My PC\Downloads\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.pdb
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.AssemblyReference.cache
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.CONTROL_PANEL.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.NeptuneCSampleForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupAltLedForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupAutoFocusForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupCaptureForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupFeatureForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupFrameSaveForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupLUTForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupResolutionForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupSIOControlForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupStrobeForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupThermalForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupTriggerForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupUserSetForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.Properties.Resources.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupStackedROIForm.resources
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.GenerateResource.cache
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.exe
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.pdb
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\x64\concrt140.dll
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\x64\cvextern.dll
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\x64\msvcp140.dll
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\x64\opencv_ffmpeg401_64.dll
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\x64\vcruntime140.dll
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.exe.config
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.exe
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.pdb
+C:\Users\My PC\OneDrive\Desktop\NeptuneC\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.CopyComplete
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\Debug\x64\x64\concrt140.dll
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\Debug\x64\x64\msvcp140.dll
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\Debug\x64\x64\opencv_ffmpeg401_64.dll
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\Debug\x64\x64\vcruntime140.dll
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\Debug\x64\x64\cvextern.dll
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.exe.config
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.exe
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\Debug\x64\NeptuneCSample_CSharp.pdb
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.AssemblyReference.cache
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.CONTROL_PANEL.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.NeptuneCSampleForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupAltLedForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupAutoFocusForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupCaptureForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupFeatureForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupFrameSaveForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupLUTForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupResolutionForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupSIOControlForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupStrobeForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupThermalForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupTriggerForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupUserSetForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.Properties.Resources.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.PopupStackedROIForm.resources
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.GenerateResource.cache
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.csproj.CoreCompileInputs.cache
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneC.FEB0B587.Up2Date
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.exe
+D:\University\HK2_2023-2024\DATN\NeptuneC\NeptuneCSample\NeptuneCSample_CSharp\obj\x64\Debug\NeptuneCSample_CSharp.pdb
